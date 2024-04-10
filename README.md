@@ -15,7 +15,7 @@ Let's work together!
 <p><a href="https://www.linkedin.com/in/julielerudulier/"><img src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" alt="Linkedin Logo" height="40"></a></p>
 <br>
 <h4>Portfolio</h4>
-<p><a href="https://julielerudulier.github.io/Portfolio/">
+<p><a href="https://julielerudulier.github.io/">
   <img src="images/readme/portfolio_screenshot.jpeg" alt="Portfolio Julie Le Rudulier"></a></p>
 <br></div>
 
